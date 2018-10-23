@@ -1,0 +1,66 @@
+#bod {
+  font-family: 'Open Sans', sans-serif;
+  width: 100vw;
+  height: 100vh;
+  background-color: #e8a760;
+}
+
+#quoteBox {
+  width: 600px;
+  height: auto;
+  margin-top: 40vh;
+  margin: 10% auto;
+  background-color: white;
+}
+
+#loading {
+  margin: 0 auto;
+  padding: 15px 50px 60px 50px;
+  font-size: 40px;
+  color: #e8a760;
+  text-align: center;
+}
+
+#quoteText {
+  margin: 3% 9%;
+  font-size: 27px;
+}
+
+#credit {
+  margin: 6% 3%;
+  text-align: right;
+  font-size: 17px;
+}
+
+#buttons {
+  font-size: 17px;
+}
+
+#newQuote {
+  float: right;
+  margin: 1% 3%;
+  padding: 9px 19px;
+  color: white;
+  button: focus;
+  outline: none;
+  background-color: #e8a760;
+}
+
+#tweet {
+  button: focus;
+  outline: none;
+  margin: 1% 3%;
+  padding: 9px 19px;
+  color: white;
+  background-color: #e8a760;
+}
+
+.colored {
+  transition: background-color 3s;
+}
+
+.coloredText {
+  transition: color 3s;
+}
+
+
